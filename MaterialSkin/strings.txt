@@ -840,8 +840,8 @@ PLUGIN_MATERIAL_SKIN_QT_COPY_ERROR
 	CS	Nelze zkopírovat frontu do přehrávače, se kterým je již synchronizována.
 	EN	Cannot copy queue to a player that it is already synced with.
 	FR	Impossible de copier une liste de lecture vers une platine déjà synchronisée.
-	EN	Nem lehet a várólistát olyan lejátszóra másolni, amivel már szinkronizálva van.
 	NL	Het is niet mogelijk om de afspeellijst te kopiëren naar een muziekspeler die al gesynchroniseerd is. 
+	HU	Nem lehet a várólistát olyan lejátszóra másolni, amivel már szinkronizálva van.
 
 PLUGIN_MATERIAL_SKIN_QT_SWAP_ERROR
 	CS	Nelze zaměnit frontu s přehrávačem, se kterým je již synchronizována.
@@ -862,4 +862,4 @@ PLUGIN_MATERIAL_SKIN_SMALL_ICON_ONLY_GRID_DESC
 	EN	On narrower screens, allow usage of smaller grid items if only showing icons, and not images. Note that this may cause text to be truncated more frequently.
 	FR	Sur les petits écrans, autoriser l'utilisation d'éléments de grille plus petits, s'il y a seulement des icônes et pas d'images. (Le texte peut être tronqué plus fréquemment.)
 	NL	Sta op kleinere schermen het gebruik van kleinere rasteritems toe als alleen icons worden weergegeven en geen afbeeldingen. Houd er rekening mee dat dit ertoe kan leiden dat tekst vaker wordt afgekapt.
-	EN	Keskenyebb képernyőkön kisebb rácselemek használata engedélyezett, ha csak ikonok jelennek meg, képek nem. Vegye figyelembe, hogy ez a szöveg gyakoribb csonkolását okozhatja.
+	HU	Keskenyebb képernyőkön kisebb rácselemek használata engedélyezett, ha csak ikonok jelennek meg, képek nem. Vegye figyelembe, hogy ez a szöveg gyakoribb csonkolását okozhatja.
